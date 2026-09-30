@@ -1,0 +1,362 @@
+{
+  "source_commit": "82489249e6a7b24c0bfd7330b2b504baca8505c2",
+  "date": "2026-09-30",
+  "scope": "Static validation only; no skill installation or roleplay execution.",
+  "source_files": 27,
+  "translated_files": 27,
+  "source_validation": [
+    {
+      "skill": "de-authority",
+      "yaml": "invalid",
+      "error": "mapping values are not allowed here"
+    },
+    {
+      "skill": "de-composure",
+      "yaml": "invalid",
+      "error": "mapping values are not allowed here"
+    },
+    {
+      "skill": "de-conceptualization",
+      "yaml": "invalid",
+      "error": "mapping values are not allowed here"
+    },
+    {
+      "skill": "de-drama",
+      "yaml": "invalid",
+      "error": "mapping values are not allowed here"
+    },
+    {
+      "skill": "de-electrochemistry",
+      "yaml": "invalid",
+      "error": "mapping values are not allowed here"
+    },
+    {
+      "skill": "de-empathy",
+      "yaml": "invalid",
+      "error": "mapping values are not allowed here"
+    },
+    {
+      "skill": "de-encyclopedia",
+      "yaml": "invalid",
+      "error": "mapping values are not allowed here"
+    },
+    {
+      "skill": "de-endurance",
+      "yaml": "invalid",
+      "error": "mapping values are not allowed here"
+    },
+    {
+      "skill": "de-esprit-de-corps",
+      "yaml": "invalid",
+      "error": "mapping values are not allowed here"
+    },
+    {
+      "skill": "de-half-light",
+      "yaml": "invalid",
+      "error": "mapping values are not allowed here"
+    },
+    {
+      "skill": "de-hand-eye",
+      "yaml": "invalid",
+      "error": "mapping values are not allowed here"
+    },
+    {
+      "skill": "de-inland-empire",
+      "yaml": "invalid",
+      "error": "mapping values are not allowed here"
+    },
+    {
+      "skill": "de-interfacing",
+      "yaml": "invalid",
+      "error": "mapping values are not allowed here"
+    },
+    {
+      "skill": "de-logic",
+      "yaml": "invalid",
+      "error": "mapping values are not allowed here"
+    },
+    {
+      "skill": "de-pain-threshold",
+      "yaml": "invalid",
+      "error": "mapping values are not allowed here"
+    },
+    {
+      "skill": "de-perception",
+      "yaml": "invalid",
+      "error": "mapping values are not allowed here"
+    },
+    {
+      "skill": "de-physical-instrument",
+      "yaml": "invalid",
+      "error": "mapping values are not allowed here"
+    },
+    {
+      "skill": "de-reaction-speed",
+      "yaml": "invalid",
+      "error": "mapping values are not allowed here"
+    },
+    {
+      "skill": "de-rhetoric",
+      "yaml": "invalid",
+      "error": "mapping values are not allowed here"
+    },
+    {
+      "skill": "de-savoir-faire",
+      "yaml": "invalid",
+      "error": "mapping values are not allowed here"
+    },
+    {
+      "skill": "de-shivers",
+      "yaml": "invalid",
+      "error": "mapping values are not allowed here"
+    },
+    {
+      "skill": "de-skillbook",
+      "yaml": "valid",
+      "unsupported_fields": []
+    },
+    {
+      "skill": "de-suggestion",
+      "yaml": "invalid",
+      "error": "mapping values are not allowed here"
+    },
+    {
+      "skill": "de-toggle",
+      "yaml": "valid",
+      "unsupported_fields": [
+        "input_prompt"
+      ]
+    },
+    {
+      "skill": "de-visual-calculus",
+      "yaml": "invalid",
+      "error": "mapping values are not allowed here"
+    },
+    {
+      "skill": "de-volition",
+      "yaml": "invalid",
+      "error": "mapping values are not allowed here"
+    }
+  ],
+  "translated_validation": [
+    {
+      "skill": "de-authority",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 484,
+      "source_examples": 5,
+      "translated_examples": 5
+    },
+    {
+      "skill": "de-composure",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 491,
+      "source_examples": 5,
+      "translated_examples": 5
+    },
+    {
+      "skill": "de-conceptualization",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 525,
+      "source_examples": 5,
+      "translated_examples": 5
+    },
+    {
+      "skill": "de-drama",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 518,
+      "source_examples": 5,
+      "translated_examples": 5
+    },
+    {
+      "skill": "de-electrochemistry",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 557,
+      "source_examples": 5,
+      "translated_examples": 5
+    },
+    {
+      "skill": "de-empathy",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 495,
+      "source_examples": 5,
+      "translated_examples": 5
+    },
+    {
+      "skill": "de-encyclopedia",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 512,
+      "source_examples": 5,
+      "translated_examples": 5
+    },
+    {
+      "skill": "de-endurance",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 533,
+      "source_examples": 5,
+      "translated_examples": 5
+    },
+    {
+      "skill": "de-esprit-de-corps",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 508,
+      "source_examples": 5,
+      "translated_examples": 5
+    },
+    {
+      "skill": "de-half-light",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 521,
+      "source_examples": 5,
+      "translated_examples": 5
+    },
+    {
+      "skill": "de-hand-eye",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 468,
+      "source_examples": 5,
+      "translated_examples": 5
+    },
+    {
+      "skill": "de-inland-empire",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 507,
+      "source_examples": 5,
+      "translated_examples": 5
+    },
+    {
+      "skill": "de-interfacing",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 522,
+      "source_examples": 5,
+      "translated_examples": 5
+    },
+    {
+      "skill": "de-logic",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 473,
+      "source_examples": 5,
+      "translated_examples": 5
+    },
+    {
+      "skill": "de-pain-threshold",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 524,
+      "source_examples": 5,
+      "translated_examples": 5
+    },
+    {
+      "skill": "de-perception",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 538,
+      "source_examples": 5,
+      "translated_examples": 5
+    },
+    {
+      "skill": "de-physical-instrument",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 523,
+      "source_examples": 5,
+      "translated_examples": 5
+    },
+    {
+      "skill": "de-reaction-speed",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 505,
+      "source_examples": 5,
+      "translated_examples": 5
+    },
+    {
+      "skill": "de-rhetoric",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 526,
+      "source_examples": 5,
+      "translated_examples": 5
+    },
+    {
+      "skill": "de-savoir-faire",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 543,
+      "source_examples": 5,
+      "translated_examples": 5
+    },
+    {
+      "skill": "de-shivers",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 550,
+      "source_examples": 5,
+      "translated_examples": 5
+    },
+    {
+      "skill": "de-skillbook",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 155,
+      "source_examples": 0,
+      "translated_examples": 0
+    },
+    {
+      "skill": "de-suggestion",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 537,
+      "source_examples": 5,
+      "translated_examples": 5
+    },
+    {
+      "skill": "de-toggle",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 172,
+      "source_examples": 0,
+      "translated_examples": 0
+    },
+    {
+      "skill": "de-visual-calculus",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 509,
+      "source_examples": 5,
+      "translated_examples": 5
+    },
+    {
+      "skill": "de-volition",
+      "valid": true,
+      "message": "Skill is valid!",
+      "description_chars": 501,
+      "source_examples": 6,
+      "translated_examples": 6
+    }
+  ],
+  "checks": {
+    "git_blob_hashes": "27/27 match",
+    "file_set_parity": true,
+    "utf8": true,
+    "markdown_only": true,
+    "no_symlinks": true,
+    "no_hidden_control_characters": true,
+    "no_active_html_elements": true,
+    "all_examples_preserved_by_count": true,
+    "translated_skills_valid": "26/26"
+  }
+}

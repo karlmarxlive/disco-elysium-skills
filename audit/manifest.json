@@ -1,0 +1,286 @@
+{
+  "repository": "https://github.com/liigoQi/disco-elysium",
+  "commit": "82489249e6a7b24c0bfd7330b2b504baca8505c2",
+  "date": "2026-09-30",
+  "selection": "codex-skills/ only",
+  "installation_performed": false,
+  "translation": "Russian, close to original; technical YAML and argument handling fixes; review README without installation commands",
+  "files": [
+    {
+      "source_path": "codex-skills/README.md",
+      "git_blob_sha1": "739ae47ea37cfbf2ad43c25f87b39e5f9ecc2f6e",
+      "source_bytes": 4575,
+      "source_sha256": "d2187b49b05e81ffcafe21b3da03a77084ff83d084a992ed50412ca9eaee418a",
+      "original_local_path": "audit/upstream/codex-skills/README.md",
+      "translated_local_path": "codex-skills/README.md",
+      "translated_bytes": 9261,
+      "translated_sha256": "477af5adea6307e60530be43ab1882e483eb33fc0708bdbddb114006cdf6a084"
+    },
+    {
+      "source_path": "codex-skills/de-authority/SKILL.md",
+      "git_blob_sha1": "8773fd369144031d21fd15d20789f57e597299c3",
+      "source_bytes": 2715,
+      "source_sha256": "ff4534a8fdca9f9955428297cb60a6b37bc4f9307c86e44909e0a047e5268cea",
+      "original_local_path": "audit/upstream/codex-skills/de-authority/SKILL.md",
+      "translated_local_path": "codex-skills/de-authority/SKILL.md",
+      "translated_bytes": 4770,
+      "translated_sha256": "a38763dd613af6838eb3424cafbc5c8b4c0661ac122484f310fb3eb1f7915995"
+    },
+    {
+      "source_path": "codex-skills/de-composure/SKILL.md",
+      "git_blob_sha1": "88cdf2c9d939ac6c1c88ac5737e12e86ded389a4",
+      "source_bytes": 2941,
+      "source_sha256": "e06049917202271c4cbf59bb907870cd4e22321f3c031e7c4a0d3284a0a0e3a7",
+      "original_local_path": "audit/upstream/codex-skills/de-composure/SKILL.md",
+      "translated_local_path": "codex-skills/de-composure/SKILL.md",
+      "translated_bytes": 5036,
+      "translated_sha256": "c74a25a85c51f821b9810f6900edb5832aca07b68de9ddb152cb041443b623f6"
+    },
+    {
+      "source_path": "codex-skills/de-conceptualization/SKILL.md",
+      "git_blob_sha1": "794dd227ea0660ce489c7b6667f1de83d2b57e82",
+      "source_bytes": 2758,
+      "source_sha256": "eaa516755dc064204a78778b9b3803ae6d28a9f1955991efdb9a2b80fbdbc0c9",
+      "original_local_path": "audit/upstream/codex-skills/de-conceptualization/SKILL.md",
+      "translated_local_path": "codex-skills/de-conceptualization/SKILL.md",
+      "translated_bytes": 4880,
+      "translated_sha256": "bf8af992d6bda0e841096a0e30873e1e049266ef06ab65cb91a5b5bd9ae501b5"
+    },
+    {
+      "source_path": "codex-skills/de-drama/SKILL.md",
+      "git_blob_sha1": "00ed3687beeb92caa1f6f35072cdd3ca8a414db9",
+      "source_bytes": 2858,
+      "source_sha256": "37fd44ace51fa8d0f152bb1a4e4fe721b28bf3edf219528f77b49e1d7e1c56d2",
+      "original_local_path": "audit/upstream/codex-skills/de-drama/SKILL.md",
+      "translated_local_path": "codex-skills/de-drama/SKILL.md",
+      "translated_bytes": 4989,
+      "translated_sha256": "024a7d37256c0338c72146f4b19f746927678d1c52637aa23bf410eba9e9d0d8"
+    },
+    {
+      "source_path": "codex-skills/de-electrochemistry/SKILL.md",
+      "git_blob_sha1": "899306611f778c9ac2075820aa8ef7751e5357d4",
+      "source_bytes": 2879,
+      "source_sha256": "85185454068aa11a3aec86b1e65472cd82f6cea50edacaa35114a97f57fa3bbc",
+      "original_local_path": "audit/upstream/codex-skills/de-electrochemistry/SKILL.md",
+      "translated_local_path": "codex-skills/de-electrochemistry/SKILL.md",
+      "translated_bytes": 5349,
+      "translated_sha256": "f3cf0da49de1d28d87209b66d9f4e00c604c8bedb5199bacb61fdf4e79bcb1db"
+    },
+    {
+      "source_path": "codex-skills/de-empathy/SKILL.md",
+      "git_blob_sha1": "2ccd4b9f1f9768e808cefd551823e8693b74f4a1",
+      "source_bytes": 2707,
+      "source_sha256": "2bbef8057e48f505a3137bc418289f013a615080637ab364c3f213de03a0e70d",
+      "original_local_path": "audit/upstream/codex-skills/de-empathy/SKILL.md",
+      "translated_local_path": "codex-skills/de-empathy/SKILL.md",
+      "translated_bytes": 4732,
+      "translated_sha256": "fc026065204c30f4f4c9849a65be92babb77268e41605552f3f14985b8251f77"
+    },
+    {
+      "source_path": "codex-skills/de-encyclopedia/SKILL.md",
+      "git_blob_sha1": "91183782de48703c060d632a4a1be0481b3905af",
+      "source_bytes": 2795,
+      "source_sha256": "dcdd7b3664c136fe5493e9a844bc94a9d6e18cd53b3674279751f59b69caff1a",
+      "original_local_path": "audit/upstream/codex-skills/de-encyclopedia/SKILL.md",
+      "translated_local_path": "codex-skills/de-encyclopedia/SKILL.md",
+      "translated_bytes": 4910,
+      "translated_sha256": "f6695f98dbd623d9bf810ace30c0e32ba123280b6cc3da5601abec99b6da6502"
+    },
+    {
+      "source_path": "codex-skills/de-endurance/SKILL.md",
+      "git_blob_sha1": "afd9fea1f7acad4f45efe959c246ca58eddc6461",
+      "source_bytes": 2866,
+      "source_sha256": "b214ebbc0db8b75e6c46fbf49418154f351c51340c142fadf517333475e45318",
+      "original_local_path": "audit/upstream/codex-skills/de-endurance/SKILL.md",
+      "translated_local_path": "codex-skills/de-endurance/SKILL.md",
+      "translated_bytes": 5269,
+      "translated_sha256": "24fe9c2bcafbf6e9b100707a4413498faa1e6219ad90d6f28116b0f2dce14e27"
+    },
+    {
+      "source_path": "codex-skills/de-esprit-de-corps/SKILL.md",
+      "git_blob_sha1": "8fafa590c6a1fe6a00872fae8732697f67275727",
+      "source_bytes": 2807,
+      "source_sha256": "27e9d2434e95520ec792ee55a875442ac3c3861e8c8f0e9fab34699e3d1343e1",
+      "original_local_path": "audit/upstream/codex-skills/de-esprit-de-corps/SKILL.md",
+      "translated_local_path": "codex-skills/de-esprit-de-corps/SKILL.md",
+      "translated_bytes": 5026,
+      "translated_sha256": "e4e8217d20e05449d80a788aee6b5f307ed76e10c8b6e20b5e9822a35834978c"
+    },
+    {
+      "source_path": "codex-skills/de-half-light/SKILL.md",
+      "git_blob_sha1": "6ce3b52223842346a3f0f63577057db6ac0d767f",
+      "source_bytes": 2905,
+      "source_sha256": "3dc57657a40794005773aa70be56afaf7511073640993d16aa5e477972bb26c9",
+      "original_local_path": "audit/upstream/codex-skills/de-half-light/SKILL.md",
+      "translated_local_path": "codex-skills/de-half-light/SKILL.md",
+      "translated_bytes": 4984,
+      "translated_sha256": "db9b12543988e0ad20e8fa5c93cd325bca236b17a1309c828d5722b2b1de32d7"
+    },
+    {
+      "source_path": "codex-skills/de-hand-eye/SKILL.md",
+      "git_blob_sha1": "fbe14719c9149cf7219a269c1ba78b3a160d06c4",
+      "source_bytes": 2827,
+      "source_sha256": "f563b18cbbaff92c46acdb266adcbcfe93a0dd78d25e0757728cc0adcfe387f3",
+      "original_local_path": "audit/upstream/codex-skills/de-hand-eye/SKILL.md",
+      "translated_local_path": "codex-skills/de-hand-eye/SKILL.md",
+      "translated_bytes": 4859,
+      "translated_sha256": "242e6268491b2c331a5a31486058851b707c4e8187964889271e6d0522490bcf"
+    },
+    {
+      "source_path": "codex-skills/de-inland-empire/SKILL.md",
+      "git_blob_sha1": "78eedd5db6f48b76b304217e94c1679589d3c8e0",
+      "source_bytes": 2744,
+      "source_sha256": "ee593594ed8152af94172686f3cb575b105ccb2b909b2d111223e9299dddc783",
+      "original_local_path": "audit/upstream/codex-skills/de-inland-empire/SKILL.md",
+      "translated_local_path": "codex-skills/de-inland-empire/SKILL.md",
+      "translated_bytes": 4947,
+      "translated_sha256": "125fe1a7ef575b9d9b7e9a1f3f1eb5d83229b6d86c861ac3701a0988f94e53a4"
+    },
+    {
+      "source_path": "codex-skills/de-interfacing/SKILL.md",
+      "git_blob_sha1": "aa80b4b2eb47782054b1d80b3e9ba137e031a7fa",
+      "source_bytes": 2955,
+      "source_sha256": "75960a653c81939e3e677746aab85b66df308d532b666b1f1885885c7bbda9f2",
+      "original_local_path": "audit/upstream/codex-skills/de-interfacing/SKILL.md",
+      "translated_local_path": "codex-skills/de-interfacing/SKILL.md",
+      "translated_bytes": 5194,
+      "translated_sha256": "5ef9fbfcffb3c2a2306348478e26765b520da29b484d7ef1cdd655e952cbf159"
+    },
+    {
+      "source_path": "codex-skills/de-logic/SKILL.md",
+      "git_blob_sha1": "4f459962598895a68f04082acb09f0721ea73db2",
+      "source_bytes": 2706,
+      "source_sha256": "a82a255cae89d15aaf098b5d379b2c54cfd8566fcd07e97cbd638de7972f3f69",
+      "original_local_path": "audit/upstream/codex-skills/de-logic/SKILL.md",
+      "translated_local_path": "codex-skills/de-logic/SKILL.md",
+      "translated_bytes": 4777,
+      "translated_sha256": "b2cd155ea2c5f84d6e92a4200276533fea7410f11fd6c5b1e01014eb161a634a"
+    },
+    {
+      "source_path": "codex-skills/de-pain-threshold/SKILL.md",
+      "git_blob_sha1": "bb9a754a6806ee1a57ac4107b16fa00b933d38ce",
+      "source_bytes": 2697,
+      "source_sha256": "ba5f7e0a9ad0575d3146703071d4eceda8574b95f753d51ef94dd1ab61569753",
+      "original_local_path": "audit/upstream/codex-skills/de-pain-threshold/SKILL.md",
+      "translated_local_path": "codex-skills/de-pain-threshold/SKILL.md",
+      "translated_bytes": 4900,
+      "translated_sha256": "25a6e7268f2e86598ccddf6a2edfa7c8eba71930665b59ffb6b7effbe5553205"
+    },
+    {
+      "source_path": "codex-skills/de-perception/SKILL.md",
+      "git_blob_sha1": "3ed02de87e5caacfc8aafedec00ddbd9346fa728",
+      "source_bytes": 2883,
+      "source_sha256": "15e8669ab0c6e3c611064b2e4deb8083d039e84f02f588750ac823809d910bf0",
+      "original_local_path": "audit/upstream/codex-skills/de-perception/SKILL.md",
+      "translated_local_path": "codex-skills/de-perception/SKILL.md",
+      "translated_bytes": 4973,
+      "translated_sha256": "cc7e4da364ed69d0feb0689f6589b6e99761e785e37b7a467f085dfbc2d2fb31"
+    },
+    {
+      "source_path": "codex-skills/de-physical-instrument/SKILL.md",
+      "git_blob_sha1": "438a739fe3b1c84e324aa018d58d6f6abd75f157",
+      "source_bytes": 2744,
+      "source_sha256": "c4c27949c979d1429d3b4d515af542a56e9616d5bdd4add1bba66f3417c6851b",
+      "original_local_path": "audit/upstream/codex-skills/de-physical-instrument/SKILL.md",
+      "translated_local_path": "codex-skills/de-physical-instrument/SKILL.md",
+      "translated_bytes": 5209,
+      "translated_sha256": "f2871f87531e1e45b2bf4b037f903d3e2196eb337a418707bd160554182b5136"
+    },
+    {
+      "source_path": "codex-skills/de-reaction-speed/SKILL.md",
+      "git_blob_sha1": "0e1b073bc06eca648d58e3019eca573174ab9009",
+      "source_bytes": 2829,
+      "source_sha256": "2fc74220265f780afe5d6e57129e8dc2000ec88288fd70d5839f054bfa2d64c1",
+      "original_local_path": "audit/upstream/codex-skills/de-reaction-speed/SKILL.md",
+      "translated_local_path": "codex-skills/de-reaction-speed/SKILL.md",
+      "translated_bytes": 4967,
+      "translated_sha256": "5070eda18859dc7aa5e91eba06843954b7303265f851269dccdf2f25ec3c71e4"
+    },
+    {
+      "source_path": "codex-skills/de-rhetoric/SKILL.md",
+      "git_blob_sha1": "4cdd5da431956d38fae916547477945e8df29e2e",
+      "source_bytes": 2783,
+      "source_sha256": "70933a5026043acf938fed9f6bc5c2f9b91677ab1a0e132cf15384577becac4c",
+      "original_local_path": "audit/upstream/codex-skills/de-rhetoric/SKILL.md",
+      "translated_local_path": "codex-skills/de-rhetoric/SKILL.md",
+      "translated_bytes": 4996,
+      "translated_sha256": "d1abdccf96750da148bc6906c22d959ca0748e0749e23350a70d1783c0932d6b"
+    },
+    {
+      "source_path": "codex-skills/de-savoir-faire/SKILL.md",
+      "git_blob_sha1": "b375355319cc8a6af972101026d651bd2bcc1b7d",
+      "source_bytes": 2997,
+      "source_sha256": "04ce605a5470ce7c536614fc8840ab7c560f870debf1778e51ac709cbf758ef1",
+      "original_local_path": "audit/upstream/codex-skills/de-savoir-faire/SKILL.md",
+      "translated_local_path": "codex-skills/de-savoir-faire/SKILL.md",
+      "translated_bytes": 5260,
+      "translated_sha256": "df77ea7f9a24e263e2e5206e5df78a4d8fee20d8e37068e5207e1f397e897fb2"
+    },
+    {
+      "source_path": "codex-skills/de-shivers/SKILL.md",
+      "git_blob_sha1": "37cc0d5cb16585860736d2cb55ced4182400a792",
+      "source_bytes": 3065,
+      "source_sha256": "cecf6745e094b796201e6700fdf78f495f116601eda0152fca57252385ac2440",
+      "original_local_path": "audit/upstream/codex-skills/de-shivers/SKILL.md",
+      "translated_local_path": "codex-skills/de-shivers/SKILL.md",
+      "translated_bytes": 5308,
+      "translated_sha256": "6dda81f4c822a746bb03c627c16645a6d5313870004b73b0d322d6306b31a14a"
+    },
+    {
+      "source_path": "codex-skills/de-skillbook/SKILL.md",
+      "git_blob_sha1": "c5bfbc24e7cb46b8b31d7aee0d9a174da4149cf1",
+      "source_bytes": 2450,
+      "source_sha256": "7dc2a28c05aad86bd4967e0f2316ebe03b93812f64b7ee55d789d60e1b5f8a4b",
+      "original_local_path": "audit/upstream/codex-skills/de-skillbook/SKILL.md",
+      "translated_local_path": "codex-skills/de-skillbook/SKILL.md",
+      "translated_bytes": 5141,
+      "translated_sha256": "c8cb8b701aa059f251a92a4ad3825d15af2dd109b6cc7d92dfa59497d595bc20"
+    },
+    {
+      "source_path": "codex-skills/de-suggestion/SKILL.md",
+      "git_blob_sha1": "c9be736cb61b478a5cd61de64a785dadb9fc90dd",
+      "source_bytes": 2755,
+      "source_sha256": "4dfeedd23b18e5b320c18b351bf7b84392902ca4d556c3ee0eaa9589dc1046aa",
+      "original_local_path": "audit/upstream/codex-skills/de-suggestion/SKILL.md",
+      "translated_local_path": "codex-skills/de-suggestion/SKILL.md",
+      "translated_bytes": 4860,
+      "translated_sha256": "99ed5575642bc5497c347f6272018b7625c2d3c60c7dcfb61b5111927256d7ea"
+    },
+    {
+      "source_path": "codex-skills/de-toggle/SKILL.md",
+      "git_blob_sha1": "b036853f07d44231c858247aedf549c08b660ee8",
+      "source_bytes": 5594,
+      "source_sha256": "b32845f4bc88acc71d5e685f37c854374a52a55cbea88c518afb6ea75f16e04c",
+      "original_local_path": "audit/upstream/codex-skills/de-toggle/SKILL.md",
+      "translated_local_path": "codex-skills/de-toggle/SKILL.md",
+      "translated_bytes": 9782,
+      "translated_sha256": "c89573fc746b03188c4a9663b180bfbfccff0e8bf41aa64e716919007c0f4d16"
+    },
+    {
+      "source_path": "codex-skills/de-visual-calculus/SKILL.md",
+      "git_blob_sha1": "44c3d23b98d3ee78042986abf3c0d717d26d0dfe",
+      "source_bytes": 2954,
+      "source_sha256": "1bfa9800281ecbe5efab5181ca1975c670ae13340364cb1d2baa4e748c12fb5c",
+      "original_local_path": "audit/upstream/codex-skills/de-visual-calculus/SKILL.md",
+      "translated_local_path": "codex-skills/de-visual-calculus/SKILL.md",
+      "translated_bytes": 5219,
+      "translated_sha256": "030df5b9215047b59dd83d12f7d68e76d768183feb727a57e2ac8220a6a77326"
+    },
+    {
+      "source_path": "codex-skills/de-volition/SKILL.md",
+      "git_blob_sha1": "2ba1b3d4e5a6107f774e635c6c16907393f6f649",
+      "source_bytes": 2828,
+      "source_sha256": "fa4c95530372a8d936aa5431b98cb6be6f8f6757247073ae6aaa46051afb04c5",
+      "original_local_path": "audit/upstream/codex-skills/de-volition/SKILL.md",
+      "translated_local_path": "codex-skills/de-volition/SKILL.md",
+      "translated_bytes": 4913,
+      "translated_sha256": "468f58297c6eeff93e4dad256b2f18dfe6eb7e651ff595d9013dbbc6ab1616aa"
+    }
+  ],
+  "review_artifacts": {
+    "README.md": "654c59ea2bc6f14c00e2cb5d568e5c22056fc013e1d76680c3b7544f63f72542",
+    "SECURITY-REVIEW.ru.md": "7d9cb91168ee1fe15bf26f55af51f3e4e87294611adbe5fcf459fb94d2090342",
+    "audit/source-tree.json": "25586caf380a299646e95b7db786551da386222ccb40b7b67964a1fe8ae6d099",
+    "audit/validation.json": "c5ff3a38f3890f9479b7a8f0e6547cbd4b694889e33623ac70a8de05126dcc92"
+  }
+}
