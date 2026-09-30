@@ -357,6 +357,17 @@
     "no_hidden_control_characters": true,
     "no_active_html_elements": true,
     "all_examples_preserved_by_count": true,
-    "translated_skills_valid": "26/26"
+    "translated_skills_valid": "26/26",
+    "group_color_indicators": {
+      "skills": 24,
+      "examples": 121,
+      "colors": {
+        "Интеллект": "🔵",
+        "Психика": "🟣",
+        "Физиология": "🔴",
+        "Моторика": "🟡"
+      },
+      "all_correct": true
+    }
   }
 }
