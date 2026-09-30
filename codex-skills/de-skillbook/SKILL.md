@@ -26,7 +26,7 @@ description: "Показывает все навыки Disco Elysium для Code
 | [Внутренняя империя](../de-inland-empire/SKILL.md) | `de-inland-empire` | Интуиция и чутьё. Сны наяву. |
 | [Эмпатия](../de-empathy/SKILL.md) | `de-empathy` | Чувствуй других. Задействуй способность сопереживать. |
 | [Авторитет](../de-authority/SKILL.md) | `de-authority` | Подавляй и властвуй. Заяви о себе. |
-| [Полицейское братство](../de-esprit-de-corps/SKILL.md) | `de-esprit-de-corps` | Будь на одной волне с коллегами и действуй с ними сообща. |
+| [Рыцарь пепельных сердец](../de-knight-of-ashen-hearts/SKILL.md) | `de-knight-of-ashen-hearts` | Придай боли смысл. Раздуй огонь в пепельном сердце. |
 | [Внушение](../de-suggestion/SKILL.md) | `de-suggestion` | Очаровывай мужчин и женщин. Ты — их кукловод. |
 
 ## Физиология
